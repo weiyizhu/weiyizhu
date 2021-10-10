@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Weiyi, a junior studying Computer Science at Swarthmore College. I am interested in full-stack development and enjoy creating programs that solve complex problems with clear, well-structured code.
+I'm Weiyi, a junior studying Computer Science at Swarthmore College. I am interested in full-stack development and enjoy creating user-friendly, efficient websites.
 
 - 📫 How to reach me: wzhu1@swarthmore.edu
 - :link: Learn more about me: https://zhuweiyi.com
